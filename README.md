@@ -1,3 +1,3 @@
 # MingwieJin.github.io
 
-## github静态部署
+## 自定义github静态网站
